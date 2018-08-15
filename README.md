@@ -1,8 +1,7 @@
 # Automatic-Verification-of-Programming-Questions
 
-Our primary objective of this project is: Given a set of solutions submitted by students (denote by S), identify the correct ones and grade the
-submissions appropriately. We can decompose our problem into the following
-subproblems:
+Our primary objective of this project is: Given a set of solutions submitted by students (denote by S), identify the correct ones and grade the submissions appropriately. We can decompose our problem into the following subproblems:
+
 Step 1: Given a set of submitted programs and a correct solution, identify the correct solutions from submitted answers (submissions i.e. S). Test cases that can discriminate wrong submissions from the correct ones
 need to be generated. And then all submissions need to be testedagainst these test cases to find out which are the correct submissions(denote by S<sub>correct</sub> ) and the incorrect ones (denote by S<sub>incorrect</sub> ).
 
