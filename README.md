@@ -12,3 +12,7 @@ P is closest to.
 Step 3: Given a pair of submitted solution and the corresponding gold standard (P, G), find the least number of steps to convert G to P using program repair techniques and assign appropriate scores.
 
 We have worked on Step 2 and our proposed solution is based on identifying similar programs by comparing their Program Dependence Graphs (PDG). For more details regarding the approach please refer to [report.pdf](https://github.com/meghanakotagiri/Automatic-Verification-of-Programming-Questions/blob/master/report.pdf)
+
+Contributors:
+Meghana Kotagiri (meghanakotagiri)
+G Neha (nehareddyg)
